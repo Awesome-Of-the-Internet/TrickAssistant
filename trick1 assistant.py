@@ -1,4 +1,3 @@
-# This is made and copyrighted by Tricky. Hahahahahaha !!!!!
 import pyttsx3
 import speech_recognition as sr
 import datetime
